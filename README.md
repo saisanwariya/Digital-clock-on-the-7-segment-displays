@@ -1,6 +1,6 @@
 # Digital Clock Program for MC9S12C
 
-## Academic Integrity Statement
+# Academic Integrity Statement
 
 Please note that all work included in this project is the original work of the author, and any external sources or references have been properly cited and credited. It is strictly prohibited to copy, reproduce, or use any part of this work without permission from the author.
 
